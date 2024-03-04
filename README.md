@@ -4,13 +4,13 @@
 
 <br>
 
-## 🙋‍♂️ About Me:
+# 🙋‍♂️👋 About Me:
 
 - 🔭 I’m currently working as a **Software Engineer 💻** | **Mobile Application Developer 📱** | **Instructor** .
 
 - 🌱 I’m currently learning **Advanced Flutter**.
 
-- 👨‍💻 All of my projects are available at **[My Repository](https://github.com/AmmarAgeeza?page=1&tab=repositories)**.
+- 👨‍💻 All of my projects are available at **[My Repository](https://github.com/FlutterAcademy?page=1&tab=repositories)**.
 
 <br>
 <div align="center">
